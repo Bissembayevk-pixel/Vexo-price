@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-10-27 14:58">
+    <company>30478193</company>
+    <merchantid>30478193</merchantid>
+    <offers>
+        <offer sku="490378597">
+            <model>Кухонный комбайн Vexo Vexo SM-A03PM серый</model>
+            <brand>vexo</brand>
+            <availabilities>
+                <availability available="yes" storeId="30478193_PP4" preOrder="30" stockCount="30.0"/>
+                <availability available="yes" storeId="30478193_PP2" preOrder="0" stockCount="49.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="474630100">1000</cityprice>
+                <cityprice cityId="750000000">125000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="164987151_319755347">
+            <model>Кофемашина Vexo K-02 черный, серебристый</model>
+            <brand>vexo</brand>
+            <availabilities>
+                <availability available="yes" storeId="30478193_PP4" preOrder="0" stockCount="1.0"/>
+                <availability available="yes" storeId="30478193_PP2" preOrder="0" stockCount="50.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="474630100">100000</cityprice>
+                <cityprice cityId="750000000">133000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="949628950">
+            <model>Кухонный комбайн Vexo Vexo SM-A02M серый</model>
+            <brand>vexo</brand>
+            <availabilities>
+                <availability available="yes" storeId="30478193_PP4" preOrder="30" stockCount="30.0"/>
+                <availability available="yes" storeId="30478193_PP2" preOrder="0" stockCount="49.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="474630100">1000</cityprice>
+                <cityprice cityId="750000000">125000</cityprice>
+            </cityprices>
+        </offer>
+    </offers>
+</kaspi_catalog>
